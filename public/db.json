@@ -1,0 +1,46 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Audi",
+      "type": "SUV",
+      "year": 2019,
+      "price": 1000000,
+      "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=http://cms.haymarketindia.net/model/uploads/modelimages/X5ModelImage.jpg&w=730&h=484&q=75&c=1"
+    },
+    {
+      "id": 2,
+      "name": "Safari",
+      "type": "SUV",
+      "year": 2011,
+      "price": 1000000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHF3mj2SS4zfsYsc_l5EqOsNgg9djCrD_Bt-C-2j3qt9lVjEyy1dWFCSreTJeMIwkVins&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "Farari",
+      "type": "SUV",
+      "year": 2021,
+      "price": 1000000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHF3mj2SS4zfsYsc_l5EqOsNgg9djCrD_Bt-C-2j3qt9lVjEyy1dWFCSreTJeMIwkVins&usqp=CAU"
+    },
+
+    {
+      "id": 4,
+      "name": "Mercedes",
+      "type": "SUV",
+      "year": 2018,
+      "price": 1000000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHF3mj2SS4zfsYsc_l5EqOsNgg9djCrD_Bt-C-2j3qt9lVjEyy1dWFCSreTJeMIwkVins&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "name": "Maruti",
+      "type": "SUV",
+      "year": 2013,
+      "price": 1000000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHF3mj2SS4zfsYsc_l5EqOsNgg9djCrD_Bt-C-2j3qt9lVjEyy1dWFCSreTJeMIwkVins&usqp=CAU"
+    }
+  ],
+  "orders": []
+}
